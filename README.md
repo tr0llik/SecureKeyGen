@@ -1,7 +1,7 @@
 **SecureKeyGen** is a lightweight yet powerful password generator designed to create strong, user-friendly passwords. This tool adheres to modern security standards while maintaining readability and ease of use, inspired by Apple's password policies.
 
 ### Key Features:
-- **Grouped Format**: Generates passwords divided into groups of 6 characters each, separated by hyphens (e.g., `reXoq-gikjib-vorda1`).
+- **Grouped Format**: Generates passwords divided into groups of 6 characters each, separated by hyphens (e.g., `nPovtd-upvf8k-avwkex`).
 - **Strong Security**: 
   - Guarantees **exactly one uppercase letter** in one group.
   - Ensures **exactly one digit** in another group.
