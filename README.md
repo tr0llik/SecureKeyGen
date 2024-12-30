@@ -24,7 +24,7 @@ SecureKeyGen is ideal for anyone who values both security and simplicity. Its in
 
 Contribute to the project or adapt it for your own needs — SecureKeyGen is your reliable companion for managing online account security!
 
-## License
+### License
 This project is licensed under the GNU General Public License v3.0. You are free to use, modify, and distribute this software under the terms of the GPL license. Any derivative works must also be licensed under GPL.
 
 For more information, see the [LICENSE](LICENSE) file included in this repository.
